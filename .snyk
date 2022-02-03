@@ -6,3 +6,5 @@ patch:
   'npm:lodash:20180130':
     - react-native-sqlite-storage > xcode > simple-plist > plist > xmlbuilder > lodash:
         patched: '2022-02-03T09:55:48.220Z'
+    - react-native > plist > xmlbuilder > lodash:
+        patched: '2022-02-03T10:32:12.259Z'
