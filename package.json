@@ -74,7 +74,7 @@
     "prop-types": "latest",
     "react": "16.5.0",
     "react-content-loader": "4.2.2",
-    "react-i18next": "11.7.3",
+    "react-i18next": "11.15.3",
     "react-intl": "2.4.0",
     "react-intl-native": "2.1.2",
     "react-native": "0.65.0",
