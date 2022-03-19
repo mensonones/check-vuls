@@ -29,7 +29,7 @@
     "base64-url": "2.2.0",
     "basic-auth": "2.0.0",
     "child-process-promise": "2.2.1",
-    "chroma-js": "2.0.3",
+    "chroma-js": "2.4.2",
     "clipboardy": "1.2.3",
     "code-point-at": "1.1.0",
     "color": "3.0.0",
