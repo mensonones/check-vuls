@@ -129,7 +129,7 @@
     "react-redux": "5.0.7",
     "reactotron-react-native": "5.0.0",
     "recompose": "0.30.0",
-    "redux": "4.0.0",
+    "redux": "4.1.2",
     "redux-immutable": "4.0.0",
     "redux-logger": "3.0.6",
     "redux-observable": "0.18.0",
